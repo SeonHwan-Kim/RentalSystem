@@ -6,6 +6,13 @@ header {
   right: 0px;
   top: 0px;
   background: #68cdc1;
+  position: sticky;
+  top: 0;
+}
+
+table thead {
+  position: sticky;
+  top: 95px;
 }
 
 button:hover {
